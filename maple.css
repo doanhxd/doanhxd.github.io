@@ -1,12 +1,12 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto:400,700&subset=vietnamese');
+@import url('https://fonts.googleapis.com/css?family=Quicksand:400,700');
 
 /* General CSS */
 body {
   margin: 0;
   padding: 0;
-  font-family: "Roboto", sans-serif;
+  font-family: "Quicksand", sans-serif;
   color: rgba(0, 0, 0, .8);
-  background-color: #f5f7fc;
+  background-color: #fff1f3;
 }
 
 img {
@@ -39,6 +39,10 @@ a {
   color: #ffbb00;
 }
 
+.pink {
+  color: #ffc0cb;
+}
+
 .gray {
   color: #00000099;
 }
@@ -66,6 +70,10 @@ a {
 
 .b-black {
   border: 1px solid black;
+}
+
+.b-pink {
+  border: 2px solid pink;
 }
 
 /* Background-color */
@@ -130,7 +138,7 @@ a {
   top: -1rem;
   right: -.6rem;
   z-index: 1000;
-  border-radius: 2rem;
+  border-radius: 1rem;
   box-shadow: 0 2px 6px rgba(0, 0, 0, .2);
 }
 
