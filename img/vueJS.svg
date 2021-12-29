@@ -1,0 +1,24 @@
+<svg width="1000" height="1000" viewBox="0 0 1000 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+<line y1="-15" x2="743.147" y2="-15" transform="matrix(0.534273 0.845312 -0.888139 0.459576 83.8574 205.176)" stroke="#4DBA87" stroke-width="30"/>
+<line y1="-15" x2="738.685" y2="-15" transform="matrix(-0.532506 0.846426 -0.892933 -0.450188 873.992 197.364)" stroke="#4DBA87" stroke-width="30"/>
+<line y1="-15" x2="397.695" y2="-15" transform="matrix(-0.525049 0.851072 -0.896428 -0.443189 696.598 192.761)" stroke="#435466" stroke-width="30"/>
+<line y1="-15" x2="181.085" y2="-15" transform="matrix(-0.517795 0.855505 -0.896025 -0.444003 592.4 192.934)" stroke="#435466" stroke-width="30"/>
+<line y1="-15" x2="119.12" y2="-15" transform="matrix(-1 -6.96841e-05 8.38128e-05 -1 711.166 192.77)" stroke="#435466" stroke-width="30"/>
+<line y1="-15" x2="180.863" y2="-15" transform="matrix(0.530688 0.847567 -0.88989 0.456175 399.225 205.176)" stroke="#435466" stroke-width="30"/>
+<line x1="270.457" y1="205.817" x2="425.836" y2="205.817" stroke="#435466" stroke-width="30"/>
+<line y1="-15" x2="403.831" y2="-15" transform="matrix(0.548707 0.836015 -0.88088 0.47334 263.822 205.176)" stroke="#435466" stroke-width="30"/>
+<path d="M509.039 831.079C509.039 838.215 502.756 844 495.005 844C487.254 844 480.971 838.215 480.971 831.079C480.971 823.943 487.254 818.158 495.005 818.158C502.756 818.158 509.039 823.943 509.039 831.079Z" fill="#4DBA87"/>
+<ellipse cx="93.0245" cy="201.933" rx="10.0245" ry="9.93912" fill="#4DBA87"/>
+<ellipse rx="14.5355" ry="12.4239" transform="matrix(1 0 0 -1 888.465 204.418)" fill="#4DBA87"/>
+<ellipse cx="499.516" cy="537.378" rx="16.5403" ry="16.3995" fill="#435466"/>
+<ellipse cx="511.044" cy="355.493" rx="16.0391" ry="15.4056" fill="#435466"/>
+<line y1="-15" x2="178.254" y2="-15" transform="matrix(-0.99999 0.00444443 -0.005363 -0.999986 274.283 191)" stroke="#4DBA87" stroke-width="30"/>
+<line y1="-15" x2="173.969" y2="-15" transform="matrix(-0.999992 0.00411254 -0.00502357 -0.999987 885.133 191.994)" stroke="#4DBA87" stroke-width="30"/>
+<rect x="12.5" y="12.5" width="975" height="975" rx="87.5" stroke="url(#paint0_linear_1787_45)" stroke-width="25"/>
+<defs>
+<linearGradient id="paint0_linear_1787_45" x1="1000" y1="-5.96046e-05" x2="5.96046e-05" y2="1000" gradientUnits="userSpaceOnUse">
+<stop stop-color="#4DBA87"/>
+<stop offset="1" stop-color="#4DBA87"/>
+</linearGradient>
+</defs>
+</svg>
